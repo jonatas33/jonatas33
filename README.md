@@ -1,7 +1,11 @@
-### Olá, Sou o Jonatas Gomes  👋
+### Olá, Sou o Jonatas Oliveira  👋
+Sou Apenas Um Servo, Filho Do Eterno. O meu Pai É Bom. 
 
-- &#x1F393; Formado em Administração de Empresas
-- 🌱 Estudando Programação Web; Programação em Java; Arquitetura de Sistemas Cloud Computing
+- &#x1F393; Bacharel em Administração de Empresas - Uni São Miguel / 2022
+- &#x1F393; Programação em Java - SENAC / 2022
+- &#x1F393; Arquitetura de Sistemas Cloud Computing - SENAC / 2022
+- 🌱 Estou cursando Programação Web / SENAC
+
 <div align="center">
   <a href="https://github.com/jonatas33">
   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=jonatas33&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
